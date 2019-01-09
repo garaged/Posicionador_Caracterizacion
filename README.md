@@ -3,6 +3,8 @@ Repositorio para archivos de control de sistema de automatización de motores NE
 
 Los archivos ejecutables para este programa se encuentran en el repositorio https://github.com/SebRey1995/Posicionador_Caracterizacion.git 
 
+SE DEBERÁN DESCARGAR TODOS LOS ARCHIVOS A UNA UBICACION A ELECCION EN LA COMPUTADORA.
+
 PARA LA SECCIÓN DE IDE DE ARDUINO: El archivo denominado "motor2.ino" se encuentra en la carpeta denominada "motor2". 
 PARA LA SECCIÓN DEL EJECUTABLE: El archivo denominado "Posicionador_VF.exe" se encuentra en la carpeta "LabVIEW".
 
